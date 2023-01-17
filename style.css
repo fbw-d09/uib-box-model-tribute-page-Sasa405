@@ -1,0 +1,98 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(54, 54, 54);
+}
+
+main
+{
+    background-image: url(./image/pexels-aboodi-vesakaran-13913322.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 100% 100%;
+    background-color: rgb(162, 180, 192);
+    border-radius: 5px;
+    padding: 1rem;
+    max-width: 90%;
+    margin: 0 auto;
+}
+
+header
+{
+    width: 28rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1
+{
+    text-transform: uppercase;
+}
+
+header h2
+{
+    
+    background-color: #013717;
+    color: #fef657;
+    padding: 5px;
+    border-radius: 2rem;
+}
+
+h3
+{
+    color: #fefdfd;
+}
+img
+{
+    width: 32rem;
+    height: 36rem;
+    display: block;
+    margin: 0 auto;
+    border-left: 10px solid green;
+    border-radius: 10px;
+}
+
+.img-Synthesizer
+{
+    text-align: center;
+}
+
+.Zeitangaben
+{
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+    border-radius: 2rem;
+    background-color: #d99333;
+    color: #fefdfd;
+}
+
+.privates
+{
+    color: rgb(54, 54, 54);
+    text-align: center;
+}
+
+
+footer
+{
+    font-size: 1rem;
+    background-color: #33333e;
+    color: #fefdfd;
+    border-radius: 2rem;
+    padding: 0.5rem 0;
+    margin: 10px 0;
+
+}
+
+footer p
+{
+text-align: center;
+}
+
+footer a
+{
+    color: #fefdfd;
+    text-decoration: underline;
+    padding-left: 20px;
+}
